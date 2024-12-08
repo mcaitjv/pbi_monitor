@@ -1,0 +1,36 @@
+*.pbix
+/devicecodetoken.bin
+
+pbitoken.bin
+
+pbitoken*.bin
+
+/Data*
+
+GraphAppSecret.txt
+
+ServicePrincipal.json
+
+/Share
+/Config*.json
+
+*.pbix
+/Config*.json
+/debug.log
+
+*/data/*
+
+/Publish
+
+Test -*.ps1
+
+local.settings*
+
+*.docx
+
+/Dataflow
+
+/DatasetStats
+Fetch - Run-Local.ps1
+Setup - DeployAzureFunction.ps1
+Tool - PublishDataflow.ps1
