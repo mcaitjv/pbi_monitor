@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Intro
 
@@ -289,3 +290,6 @@ Run [Fetch - Run](./Fetch%20-%20Run.ps1)
 ## Open the Power BI Report Template
 
 Open the [Power BI Template file](./PBI%20-%20Activity%20Monitor%20-%20Disk.pbit) and change the parameter "DataLocation" to the data folder.
+=======
+# pbi_monitor
+>>>>>>> 03d163d6938ad867a8fcac54165e235af1b2896a
